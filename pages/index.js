@@ -21,6 +21,13 @@ export default function Home() {
       </main>
 
       <Footer>
+        <p className="description">
+          sebastien.degrandpre@infonuagix.com
+          514.942.4431
+          870 de la Bruyère
+          St-Rémi (Québec)
+          J0L 2L0
+        </p>
       </Footer>
     </div>
   )
