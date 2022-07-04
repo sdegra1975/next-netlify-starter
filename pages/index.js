@@ -13,17 +13,17 @@ export default function Home() {
       <main>
         <img src="/logo1500.png" alt="Logo d'Infonuagix" width="1200"/>
         <h1>
-          La boîte de développement logiciel infonuagique fait-sur-mesure!
+          La boîte de développement de logiciels infonuagiques faits-sur-mesure!
         </h1>
         <h1>
           The custom cloud-native software development shop!
         </h1>
         <p className="description">
-          sebastien.degrandpre@infonuagix.com <br/>
-          514.942.4431 <br/>
-          870 de la Bruyère <br/>
-          St-Rémi (Québec) <br/>
-          J0L 2L0
+          <h2>sebastien.degrandpre@infonuagix.com</h2>
+          <h2>514.942.4431</h2>
+          <h2>870 de la Bruyère</h2>
+          <h2>St-Rémi (Québec)</h2>
+          <h2>J0L 2L0</h2>
         </p>
       </main>
 
