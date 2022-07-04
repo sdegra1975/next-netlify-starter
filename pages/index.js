@@ -16,9 +16,6 @@ export default function Home() {
           La boîte de développement logiciel infonuagique fait-sur-mesure!
           The custom cloud-native software development shop!
         </p>
-      </main>
-
-      <Footer>
         <p className="description">
           sebastien.degrandpre@infonuagix.com
           514.942.4431
@@ -26,7 +23,9 @@ export default function Home() {
           St-Rémi (Québec)
           J0L 2L0
         </p>
-      </Footer>
+      </main>
+
+      <Footer/>
     </div>
   )
 }
