@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <img src="logo1500.png" alt="Logo d'Infonuagix" width="600">
+        <img src="/logo1500.png" alt="Logo d'Infonuagix" width="600">
         <p className="description">
           La boîte de développement logiciel infonuagique fait-sur-mesure!
         </p>
