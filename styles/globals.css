@@ -17,8 +17,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font: Quicksand;
-  font-size: 15px;
+  font: 15px Quicksand;
 }
 
 code {
