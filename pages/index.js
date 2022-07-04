@@ -20,9 +20,9 @@ export default function Home() {
           The custom cloud-native software development shop!
         </h1>
         <p className="description">
+          <h3>870 de la Bruyère, St-Rémi (Québec), J0L 2L0</h3>
           <h3>sebastien.degrandpre@infonuagix.com</h3>
           <h3>514.942.4431</h3>
-          <h3>870 de la Bruyère, St-Rémi (Québec), J0L 2L0</h3>
         </p>
       </main>
 
