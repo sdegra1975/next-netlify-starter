@@ -7,6 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Infonuagix</title>
+        <link rel="icon" href="/logo1500_Puv_icon.ico" />
       </Head>
 
       <main>
