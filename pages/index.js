@@ -22,9 +22,7 @@ export default function Home() {
         <p className="description">
           <h3>sebastien.degrandpre@infonuagix.com</h3>
           <h3>514.942.4431</h3>
-          <h3>870 de la Bruyère</h3>
-          <h3>St-Rémi (Québec)</h3>
-          <h3>J0L 2L0</h3>
+          <h3>870 de la Bruyère, St-Rémi (Québec), J0L 2L0</h3>
         </p>
       </main>
 
