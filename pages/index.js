@@ -6,18 +6,22 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Infonuagix</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <img src="logo1500.png" alt="Logo d'Infonuagix" width="600">
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          La boîte de développement logiciel infonuagique fait-sur-mesure!
+        </p>
+        <p className="description">
+          The custom cloud-native software development shop!
         </p>
       </main>
 
-      <Footer />
+      <Footer>
+      </Footer>
     </div>
   )
 }
